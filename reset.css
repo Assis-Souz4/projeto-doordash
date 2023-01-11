@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* temporario */
+body {
+ width: 100vw;
+ 
+ height: 100vh;
+}
+/* font-size: calc(14px + (16 - 14) * ((100vw - 300px) / (1536 - 300))); */
