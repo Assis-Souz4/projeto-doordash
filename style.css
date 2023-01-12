@@ -3,6 +3,7 @@ header {
   justify-content: right;
   position: relative;
   height: 580px;
+  width: 100%;
 }
 .imagem-fundo-header {
   width: 100%;
@@ -158,20 +159,23 @@ footer {
   align-content: space-evenly;
   justify-content: space-around;
   position: relative;
+  width: 100vw;
 }
 footer a,
 h3 {
   color: #c4c4c4;
   padding-bottom: 10px;
+  text-decoration: none;
 }
-footer div ul,
+footer div ul
 li {
   list-style: none;
 }
 .google {
   position: absolute;
   bottom: 280px;
-  left: 80pc;
+  left: 90pc;
+  bottom: 20px;
   display: block;
 }
 /* botões */
